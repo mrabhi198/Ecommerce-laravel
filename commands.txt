@@ -1,0 +1,11 @@
+Install Dependencies: composer install
+                      npm install
+
+Database Configuration: php artisan migrate --seed
+Setup Storage(if needed): php artisan storage:link
+Run: php artisan serve
+
+
+Admin: 
+    Email: admin@gmail.com
+    Password: 1111
